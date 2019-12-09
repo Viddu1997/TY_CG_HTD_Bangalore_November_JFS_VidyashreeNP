@@ -1,0 +1,47 @@
+
+ul li{
+       list-style: none;
+       display: inline;
+       text-decoration: none;
+       
+
+}
+
+
+ul li a{
+    text-decoration: none;
+    padding: 10px;
+    float: left;
+    
+}
+
+img{
+    align-content: center;
+    border-radius: 50%;
+    border-style: solid;
+    
+
+}
+
+table tr td{
+    border-style: solid;
+    padding: 20px;
+   text-align: center;
+
+}
+
+h1{
+    font-size: larger;
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+a{
+    font-display: 10px;
+    font-size: x-small;
+    text-align: center;
+}
+    
